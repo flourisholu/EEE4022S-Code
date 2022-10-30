@@ -4,7 +4,7 @@ This repository contains the MATLAB code that was written for an undergraduate f
 A description of the various scripts and functions contained within this directory is given below. The report was written using Latex and can be found [here](https://github.com/flourisholu/EEE4022S-Report.git).
 
 ***
-> ###./Audio Signal Processing
+### `./Audio Signal Processing`
 
 ***
-./Ultrasonic Signal Processing
+### `./Ultrasonic Signal Processing`
