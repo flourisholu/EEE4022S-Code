@@ -7,7 +7,7 @@ Contains MATLAB scripts and functions for measuring speed using an audio radar s
 
 ---
 **`/.Ultrasonic Signal Processing`**  
-Same code used in **`/.Audio Signal Processing`**, but incles a MATLAB application designed to allow the user to customise some of the radar parameters. Speed, spectrogram, and signal processing plots are output once logging is complete, and speeds are displayed on the GUI.
+Same code used in **`/.Audio Signal Processing`**, but includes a MATLAB application designed to allow the user to customise some of the radar parameters. Speed, spectrogram, and signal processing plots are output once logging is complete, and speeds are displayed on the GUI.
 
 ---
 **`/.data`**
